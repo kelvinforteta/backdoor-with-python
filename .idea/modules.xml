@@ -3,6 +3,8 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/.idea/backdoor-with-python.iml" filepath="$PROJECT_DIR$/.idea/backdoor-with-python.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../mac_address_changer/.idea/mac_address_changer.iml" filepath="$PROJECT_DIR$/../mac_address_changer/.idea/mac_address_changer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../python_network_scanner/.idea/python_network_scanner.iml" filepath="$PROJECT_DIR$/../python_network_scanner/.idea/python_network_scanner.iml" />
     </modules>
   </component>
 </project>
